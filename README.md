@@ -1,13 +1,7 @@
-![This is an image](https://github.com/BGDonLINE/ICARUS-HiddenzHVNCv4.0.0-/blob/main/ipwn.png)
+![615px-Owl_(13455)_-_The_Noun_Project svg](https://user-images.githubusercontent.com/108375436/187012451-9e288ef0-8c3d-4eb5-a591-473013720d3c.png)
+
 ```
-▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
-NOTE: NOT FOR COMMERCIALIZATION PURPOSES BY 5$ MORONS
-(ESPECIALLY ARAB AND INDIAN SCAMMERS)ONLY FOR EDUCATIONAL PURPOSES
-▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
-THERE WILL BE NO SUPPORT FOR REVERSED PROJECTS!!!
-▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
-SOURCE WILL COME WHEN IT COMES ;)
-▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄▄
+Icarus HVNC full ready release copied version of HiddenzVNC 4.0
 ```
 ![This is an image](https://github.com/BGDonLINE/ICARUS-HiddenzHVNCv4.0.0-/blob/main/1.png)
 ![This is an image](https://github.com/BGDonLINE/ICARUS-HiddenzHVNCv4.0.0-/blob/main/2.png)
